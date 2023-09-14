@@ -1,0 +1,17 @@
+2023-09-14-08:20:45 INFO  BaseTest : setDriver :  Spark report configured
+2023-09-14-08:20:56 INFO  BaseTest : getBrowserType : Chrome configured
+2023-09-14-08:20:56 INFO  BaseTest : setDriver : driver object assigned
+2023-09-14-08:20:56 INFO  BaseTest : setup : loginTest1 Test Object for reporting is created
+2023-09-14-08:20:57 INFO  LoginPage : loginToApp : started
+2023-09-14-08:20:58 INFO  LoginPage : loginToApp : Window maximized
+2023-09-14-08:21:20 INFO  LoginPage : loginToApp : clicked ion login button
+2023-09-14-08:21:20 INFO  BaseTest : tearDown : loginTest1 Tear downn called
+2023-09-14-08:21:20 INFO  BaseTest : setup : loginTest4B Test Object for reporting is created
+2023-09-14-08:21:46 INFO  BaseTest : tearDown : loginTest4B Tear downn called
+2023-09-14-08:21:46 INFO  BaseTest : setup : loginTest4A Test Object for reporting is created
+2023-09-14-08:21:54 INFO  BaseTest : tearDown : loginTest4A Tear downn called
+2023-09-14-08:21:54 INFO  BaseTest : setup : loginTest2 Test Object for reporting is created
+2023-09-14-08:21:59 INFO  LoginPage : selectRememberMeCheckBox : Started
+2023-09-14-08:21:59 INFO  LoginPage : selectRememberMeCheckBox : remember me checkbox selected
+2023-09-14-08:22:00 INFO  LoginPage : selectRememberMeCheckBox : Ended
+2023-09-14-08:22:02 INFO  BaseTest : tearDown : loginTest2 Tear downn called

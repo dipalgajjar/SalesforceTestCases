@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-14T08:20:45 PDT" name="Default suite" finished-at="2023-09-14T08:22:02 PDT" duration-ms="77275">
+    <groups>
+    </groups>
+    <test started-at="2023-09-14T08:20:45 PDT" name="Default test" finished-at="2023-09-14T08:22:02 PDT" duration-ms="77275">
+      <class name="tests.TC1LoginTest">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:tests.TC1LoginTest@3676ac27]" started-at="2023-09-14T08:20:45 PDT" name="setDriver" finished-at="2023-09-14T08:20:56 PDT" duration-ms="10741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.TC1LoginTest@3676ac27]" started-at="2023-09-14T08:20:56 PDT" name="setup" finished-at="2023-09-14T08:20:56 PDT" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1LoginTest.loginTest1() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest1()[pri:0, instance:tests.TC1LoginTest@3676ac27]" started-at="2023-09-14T08:20:56 PDT" name="loginTest1" finished-at="2023-09-14T08:21:20 PDT" duration-ms="24275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest1 -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:tests.TC1LoginTest@3676ac27]" started-at="2023-09-14T08:21:20 PDT" name="tearDown" finished-at="2023-09-14T08:21:20 PDT" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1LoginTest.loginTest1() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.TC1LoginTest@3676ac27]" started-at="2023-09-14T08:21:20 PDT" name="setup" finished-at="2023-09-14T08:21:20 PDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1LoginTest.loginTest4B()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest4B()[pri:1, instance:tests.TC1LoginTest@3676ac27]" started-at="2023-09-14T08:21:20 PDT" name="loginTest4B" finished-at="2023-09-14T08:21:46 PDT" duration-ms="25599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest4B -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:tests.TC1LoginTest@3676ac27]" started-at="2023-09-14T08:21:46 PDT" name="tearDown" finished-at="2023-09-14T08:21:46 PDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1LoginTest.loginTest4B()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.TC1LoginTest@3676ac27]" started-at="2023-09-14T08:21:46 PDT" name="setup" finished-at="2023-09-14T08:21:46 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1LoginTest.loginTest4A() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest4A()[pri:2, instance:tests.TC1LoginTest@3676ac27]" started-at="2023-09-14T08:21:46 PDT" name="loginTest4A" finished-at="2023-09-14T08:21:54 PDT" duration-ms="8231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest4A -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:tests.TC1LoginTest@3676ac27]" started-at="2023-09-14T08:21:54 PDT" name="tearDown" finished-at="2023-09-14T08:21:54 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1LoginTest.loginTest4A() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.TC1LoginTest@3676ac27]" started-at="2023-09-14T08:21:54 PDT" name="setup" finished-at="2023-09-14T08:21:54 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1LoginTest.loginTest2() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest2()[pri:3, instance:tests.TC1LoginTest@3676ac27]" started-at="2023-09-14T08:21:54 PDT" name="loginTest2" finished-at="2023-09-14T08:22:02 PDT" duration-ms="8299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest2 -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:tests.TC1LoginTest@3676ac27]" started-at="2023-09-14T08:22:02 PDT" name="tearDown" finished-at="2023-09-14T08:22:02 PDT" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC1LoginTest.loginTest2() throws com.fasterxml.jackson.databind.exc.InvalidFormatException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TC1LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
